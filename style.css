@@ -181,7 +181,7 @@ p {
   }
 
   .author {
-    padding: 1rem;
+    display: none
   }
 
   .share__image {
